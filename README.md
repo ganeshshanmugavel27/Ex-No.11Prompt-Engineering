@@ -1,38 +1,63 @@
-# Ex-No.11 Prompt-Engineering  
+# ☕ Coffee Day – Promotional Poster Documentation
 
-**Date:** 21-05-2025 
-**Register No.:** 212222040163
-
-
-**AIM:** To create a eye-catching promotional poster encouraging sunscreen post for social media.
+📅 Date: 2025  
+🎓 Register No.: 212222040042
+📁 Exercise No.: Ex-No.12 — Promotional Design Poster (Social Media)
 
 ---
 
-## Algorithm:
-1. Choose a visually striking and unexpected subject to grab attention — in this case, a chicken.
-2. Dress the subject in human-like accessories (sunglasses) to add humor and relatability.
-3. Create a prop (sunscreen bottle) clearly labeled with a catchy phrase and SPF level.
-4. Include a bold headline using a pun related to sunburn (e.g., “Don’t Get Fried”).
-5. Add a short, positive tagline encouraging sunscreen use (“Don’t fry, just shine.”).
-6. Use high contrast colors (black background, yellow bottle) to enhance readability and visual appeal.
-7. Ensure the composition keeps the focus on both the chicken and the product being promoted.
+## 🎯 Aim
+
+To create a visually engaging and mouth-watering promotional poster for a new café named “Coffee Day” that highlights its handcrafted coffee, brownies, and desserts, optimized for social media sharing.
 
 ---
 
-## Prompt:
-Generate a witty and visually engaging ad poster featuring a chicken holding a bottle of SPF 100+ sunscreen. Add bold, humorous text that uses a sun-related pun to emphasize the importance of sun protection. The chicken should be wearing sunglasses and look confident. Include a short motivational tagline and ensure the color scheme draws attention to the sunscreen product.
+## 🔄 Algorithm
+
+1. Choose an inviting and relatable theme — a cozy café atmosphere.
+2. Select high-quality imagery showcasing coffee and desserts for visual appeal.
+3. Use warm tones and wood textures to evoke comfort and warmth.
+4. Craft a catchy and uplifting headline to grab viewer attention.
+5. Add concise, engaging text describing the café’s offerings.
+6. Design a minimal yet effective logo that reinforces brand identity.
+7. Apply clear layout hierarchy to balance text and visuals.
+8. Export the final design in high resolution for Instagram/WhatsApp formats.
 
 ---
 
-## Output:
-**Image:** A chicken wearing sunglasses holding a bright yellow sunscreen bottle labeled “DON’T GET FRIED - SPF 100+”.  
-**Headline:** “DON’T GET FRIED”  
-**Tagline:** “DON’T FRY, JUST SHINE.”  
-**Design Elements:** Bold fonts, sun and water drop icons, high contrast visuals, humorous anthropomorphism.
+## 🎨 Design Features
 
-![WhatsApp Image 2025-05-10 at 15 59 42_f5e21d82](https://github.com/user-attachments/assets/04942049-56a2-4913-8d10-88546f00b8a8)
-
+- Bold Headline: “WAKE UP & SMELL THE HAPPINESS!” to spark interest instantly.
+- Subheading: Friendly introduction to Coffee Day's core offerings.
+- Featured Items:
+  - Latte art coffee
+  - Black coffee
+  - Brownies, strawberry shortcake, and butter cookies
+- Logo Design:
+  - Coffee cup icon
+  - Brand name “COFFEE DAY” in bold
+- Color Palette:
+  - Warm beige and wood tones
+  - Chocolate and cream for contrast
+- Typography:
+  - Clean, legible sans-serif fonts
+  - Strong visual hierarchy
 
 ---
-## Result:  
-Thus, a visually impactful promotional poster was created, featuring a chicken wearing sunglasses and holding a bottle of sunscreen labeled "DON’T GET FRIED - SPF 100+." The bold headline "DON’T GET FRIED" and the tagline "DON’T FRY, JUST SHINE." creatively reinforce the message of sun safety. The design effectively combines humor, clear visual hierarchy, and strong contrast to attract attention and deliver the message in a memorable way. The use of anthropomorphism makes the ad relatable and engaging, enhancing its potential effectiveness in awareness campaigns related to skin protection and sun safety.
+
+## 🖼️ Output Image
+
+![image](https://github.com/user-attachments/assets/c822d33e-e470-4f2e-a9e7-cfc30e95899d)
+
+---
+
+## ✅ Result
+
+A professionally styled promotional poster was successfully created for “Coffee Day.” The poster features a compelling combination of cozy ambiance, appetizing desserts, and well-structured copywriting. The use of rich imagery and clear brand elements make it highly effective for digital marketing purposes, especially on platforms like Instagram and WhatsApp. The design aligns with modern café aesthetics and encourages customers to visit and indulge.
+
+---
+
+👨‍🎨 Designed by: [Ganesh S]  
+🎓 Institution: [Saveetha Engineering College]  
+🗂️ Use: Academic / Portfolio / Marketing Practice
+
